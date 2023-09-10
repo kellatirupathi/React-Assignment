@@ -12,13 +12,13 @@ function App() {
         thumbnail={
           <img
             src="https://c4.wallpaperflare.com/wallpaper/39/346/426/digital-art-men-city-futuristic-night-hd-wallpaper-thumb.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/1/Need-For-Speed-Logo-Transparent-File.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -30,13 +30,13 @@ function App() {
         thumbnail={
           <img
             src="https://c4.wallpaperflare.com/wallpaper/142/751/831/landscape-anime-digital-art-fantasy-art-wallpaper-thumb.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/1/Need-For-Speed-Logo-Download-Free-PNG.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -48,13 +48,13 @@ function App() {
         thumbnail={
           <img
             src="https://c4.wallpaperflare.com/wallpaper/974/565/254/windows-11-windows-10-minimalism-hd-wallpaper-thumb.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/1/Need-For-Speed-Logo-Transparent-Free-PNG.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -66,7 +66,7 @@ function App() {
         thumbnail={
           <img
             src="https://c1.wallpaperflare.com/preview/923/626/435/legoland-building-blocks-legos-lego.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
@@ -84,13 +84,13 @@ function App() {
         thumbnail={
           <img
             src="https://c1.wallpaperflare.com/preview/925/91/685/school-science-handbook-benches-an-array-of-chalk.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/2/Acura-Logo-Transparent-Background.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -102,13 +102,13 @@ function App() {
         thumbnail={
           <img
             src="https://c1.wallpaperflare.com/preview/551/632/947/device-internet-pixels-protection.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/2/Star-Wars-Logo-Free-PNG.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -120,13 +120,13 @@ function App() {
         thumbnail={
           <img
             src="https://c4.wallpaperflare.com/wallpaper/990/547/605/digital-art-futuristic-city-car-artwork-wallpaper-preview.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/2/Deadpool-Logo-Transparent-Background.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -138,13 +138,13 @@ function App() {
         thumbnail={
           <img
             src="https://c4.wallpaperflare.com/wallpaper/888/76/874/rick-and-morty-cartoon-adult-swim-minimalism-wallpaper-preview.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/2/Deadpool-Logo-Transparent-File.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -156,13 +156,13 @@ function App() {
         thumbnail={
           <img
             src="https://c4.wallpaperflare.com/wallpaper/268/96/863/anime-anime-girls-original-characters-short-hair-wallpaper-preview.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/3/Black-Apple-Logo-PNG-Pic-Background.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -174,13 +174,13 @@ function App() {
         thumbnail={
           <img
             src="https://c4.wallpaperflare.com/wallpaper/732/347/681/lion-artwork-sky-animals-wallpaper-preview.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/3/Gold-Apple-Logo-PNG-HD-Quality.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -192,13 +192,13 @@ function App() {
         thumbnail={
           <img
             src="https://c4.wallpaperflare.com/wallpaper/285/471/731/night-cyberpunk-futuristic-city-artwork-wallpaper-preview.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/3/Black-Apple-Logo-PNG-Photos.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -210,13 +210,13 @@ function App() {
         thumbnail={
           <img
             src="https://c4.wallpaperflare.com/wallpaper/1005/778/557/star-wars-darth-vader-emperor-palpatine-stormtrooper-wallpaper-preview.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/3/Apple-Logo-PNG-Clipart-Background.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -228,13 +228,13 @@ function App() {
         thumbnail={
           <img
             src="https://c4.wallpaperflare.com/wallpaper/372/804/903/jump-force-goku-naruto-luffy-4k-8k-wallpaper-preview.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/3/Chevron-Logo-Background-PNG-Image.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -246,13 +246,13 @@ function App() {
         thumbnail={
           <img
             src="https://c4.wallpaperflare.com/wallpaper/786/670/384/night-artwork-futuristic-city-science-fiction-wallpaper-preview.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/3/BP-Logo-PNG-Clipart-Background.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -264,13 +264,13 @@ function App() {
         thumbnail={
           <img
             src="https://c4.wallpaperflare.com/wallpaper/504/386/358/video-game-art-video-games-artwork-the-last-of-us-ii-wallpaper-preview.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/3/Boeing-Logo-Download-Free-PNG.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
@@ -282,13 +282,13 @@ function App() {
         thumbnail={
           <img
             src="https://c4.wallpaperflare.com/wallpaper/504/386/358/video-game-art-video-games-artwork-the-last-of-us-ii-wallpaper-preview.jpg"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
         logo={
           <img
             src="https://www.pngplay.com/wp-content/uploads/3/Boeing-Logo-Download-Free-PNG.png"
-            alt="Rishabh Patel"
+            alt="Tirupathi Rao"
           />
         }
       ></Video>
